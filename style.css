@@ -1,3 +1,4 @@
+
 body{
     background-color: rgb(68, 9, 123);
 }
@@ -8,12 +9,20 @@ body{
 
 #presentacion{
     
-        height: 92vh;
+        height: 102vh;
         display: flex;
         justify-content: start;
         align-items: center;
+        color: rgb(148, 146, 144);
         
     
     background-image: url(
-        "https://edwize.org/wp-content/uploads/2022/09/Which-One-Is-Better-Free-Code-Camp-Or-Codecademy-2.jpg" ) ;
+        "https://gnkstech.com/wp-content/uploads/2020/04/slider2.jpg" ) ;
+        
 }
+ 
+#presentacion h1{
+    color: rgb(205, 188, 212) !important;
+    
+}
+
