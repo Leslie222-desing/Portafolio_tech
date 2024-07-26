@@ -1,3 +1,7 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(111, 37, 181);
+}
+
+#nav{
+    background-color: rgb(177, 103, 247) !important;
 }
