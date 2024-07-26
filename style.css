@@ -1,7 +1,19 @@
 body{
-    background-color: rgb(111, 37, 181);
+    background-color: rgb(68, 9, 123);
 }
 
 #nav{
-    background-color: rgb(177, 103, 247) !important;
+    background-color: rgb(44, 3, 83) !important;
+}
+
+#presentacion{
+    
+        height: 92vh;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        
+    
+    background-image: url(
+        "https://edwize.org/wp-content/uploads/2022/09/Which-One-Is-Better-Free-Code-Camp-Or-Codecademy-2.jpg" ) ;
 }
