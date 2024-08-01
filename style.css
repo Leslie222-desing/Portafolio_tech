@@ -17,11 +17,12 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    opacity: 80%;
+    opacity: 90%;
+    
 }
  
 #presentacion h1{
-    color: rgb(205, 188, 212) !important;
+    color: rgb(243, 234, 246) !important;
     
 }
 
@@ -104,3 +105,4 @@ a:hover{
     text-decoration: underline;
     
 }
+
