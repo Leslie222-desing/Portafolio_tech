@@ -1,24 +1,23 @@
 
 body{
     background-color: rgb(68, 9, 123);
+    opacity: 90%;
 }
 
 #nav{
     background-color: rgb(44, 3, 83) !important;
 }
 
-#presentacion{
-    
-        height: 102vh;
-        display: flex;
-        justify-content: start;
-        align-items: center;
-        color: rgb(148, 146, 144);
-        
-    
-    background-image: url(
-        "https://gnkstech.com/wp-content/uploads/2020/04/slider2.jpg" );
-        
+#presentacion {
+    min-height: 88vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-image: url(assents/po.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 80%;
 }
  
 #presentacion h1{
@@ -62,3 +61,46 @@ body{
     color: #1f2021;
 }
 
+i{
+    color: #c89ae7;
+}
+
+footer{
+    background-color: rgb(44, 3, 83) !important;
+    width: 1000px;
+}
+
+#foot{
+    color: #ead7f7 !important;
+    
+}
+
+
+#g{
+    background-color: #c89ae7;
+    opacity: 70%;
+    border-style: none;
+    
+}
+
+#c{
+    background-color: #270340;
+    opacity: 70%;
+    border-style: none;
+   
+    
+}
+
+#c a{
+    color: #ead7f7 !important;
+}
+
+a{
+   text-decoration: none;
+   color: #7337e2;
+}
+
+a:hover{
+    text-decoration: underline;
+    
+}
